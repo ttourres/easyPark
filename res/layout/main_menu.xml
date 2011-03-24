@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:padding="10px"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<TextView
+		android:id= "@+id/title"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content"
+	    android:text="@string/t_main_menu"
+	    android:textSize="28sp"
+	    android:paddingBottom="30px"
+	    android:paddingTop="10px"
+	    android:gravity="top|center_horizontal">
+	</TextView>
+	<Button android:id= "@+id/b1"
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent"
+	android:textStyle="bold"
+	android:text="@string/b_display_map"
+	android:textColor="#000000"
+	android:layout_below="@+id/texteRayon"
+	android:layout_margin="20px"
+	android:height="30pt">
+	</Button>
+	<Button android:id= "@+id/b2"
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent"
+	android:textStyle="bold"
+	android:text="@string/b_search_park"
+	android:textColor="#000000"
+	android:layout_below="@+id/texteRayon"
+	android:layout_margin="20px"
+	android:height="30pt">
+	</Button>
+	<Button android:id= "@+id/b3"
+	android:layout_height="wrap_content"
+	android:layout_width="fill_parent"
+	android:textStyle="bold"
+	android:text="@string/b_list_parking"
+	android:textColor="#000000"
+	android:layout_below="@+id/texteRayon"
+	android:layout_margin="20px"
+	android:height="30pt">
+	</Button>
+</LinearLayout>

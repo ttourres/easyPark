@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyPark</string>
+    <string name="t_main_menu">Menu principal</string>
+    <string name="t_search_menu">Rechercher un parking</string>
+    <string name="in_adresse_dest">Saisissez votre adresse de destination :</string>
+    <string name="b_display_map">Afficher la carte</string>
+    <string name="b_search_park">Chercher un parking</string>
+    <string name="b_list_parking">Afficher la liste</string>
+    <string name="b_from_position">A partir de ma position</string>
+    <string name="b_from_dest">A partir de ma destination</string>
+    <string name="in_address">Tapez une adresse</string>
+    <string name="b_check">Valider</string>
+    <string name="map_refresh">Actualiser</string>
+    <string name="map_view">Vue</string>
+    <string name="map_search">Rechercher</string>
+    <string name="map_map">Carte</string>
+    <string name="map_satellite">Satellite</string>
+    <string name="info_name">Nom</string>
+    <string name="info_adress">Adresse</string>
+    <string name="info_capacity">Capacité</string>
+    <string name="info_availibilty">Places disponibles</string>
+    <string name="b_goto">Comment aller à ce parking</string>
+    <string name="b_back">Retour</string>
+    <string name="gps_oui_non">Voulez-vous activer le GPS ?</string>    
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    
+</resources>
